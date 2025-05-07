@@ -1,5 +1,5 @@
 # EX 48 C functions to perform all basic operations in Doubly Linked List.
-## DATE:
+## DATE:5/5/25
 ## AIM:
 To write a C functions to perform all basic operations in Doubly Linked List.
 
