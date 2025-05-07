@@ -1,5 +1,5 @@
 # EX 47 C function to insert a node in a linked list.
-## DATE:
+## DATE:5/5/25
 ## AIM:
 To write a C function to insert a node in a linked list.
 
