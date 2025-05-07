@@ -1,5 +1,5 @@
 # EX 46 C function to traverse the linked list and display it in the following format.
-## DATE:
+## DATE:5/5/25
 ## AIM:
 To write a C function to traverse the linked list and display it in the following format.
 
